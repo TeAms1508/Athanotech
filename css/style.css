@@ -819,6 +819,23 @@ a:focus {
 }
 
 
+.client-section{
+  text-align: center;
+  padding: 50px 0;
+}
+
+.client-section h2{
+  font-size: 36px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.client-logos img{
+  width: 150px;
+  height: auto;
+  margin: 0 10px;
+}
+
 .team-section{
   font-family: sans-serif;
   color: #da7426;
